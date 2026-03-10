@@ -15,7 +15,7 @@
 
 ---
 
-#  About Me
+# 🌸 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/Mansi143c/Mansi143c/main/assets/images/angular.png" />
 
@@ -37,7 +37,7 @@
 
 ---
 
-# Angular Development Expertise
+# ⚡ Angular Development Expertise
 
 As an Angular developer, I specialize in building **enterprise-grade frontend applications** that connect seamlessly with backend services and data warehouses.
 
